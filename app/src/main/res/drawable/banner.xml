@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 TV banner: a dusk sky over a price-line horizon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#1C222B" android:pathData="M0,0h320v180h-320z"/>
+    <path android:fillColor="#ECE8DF" android:pathData="M18,18h284v144h-284z"/>
+    <path android:fillColor="#40355E" android:pathData="M28,28h264v124h-264z"/>
+    <path android:fillColor="#E2A594" android:pathData="M28,90h264v62h-264z" android:fillAlpha="0.55"/>
+    <path android:fillColor="#FFD9A8" android:pathData="M232,62m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#3E3352" android:pathData="M28,118 L60,104 L84,110 L118,86 L150,96 L182,72 L214,84 L246,66 L292,80 L292,152 L28,152 Z"/>
+    <path android:strokeColor="#FBE7DC" android:strokeWidth="2" android:pathData="M28,118 L60,104 L84,110 L118,86 L150,96 L182,72 L214,84 L246,66 L292,80"/>
+</vector>
